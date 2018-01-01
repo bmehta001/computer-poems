@@ -9,6 +9,6 @@ Two last notes:
 
 1) Make sure to write python3 -m pip install (package name) in the terminal substituting the package name )These are the import statements on top of the python .py files) with the library you would like to install (nltk, etc.) if you don't have the package pre-installed. 
 
-2) If you do not get any output during the first run of the program, make sure to run it multiple times. Even with the text I provided, there are times that the words may not fulfill some existing conditions of my program or the packages that I have used for the program. Because of this, you may not get any output. If you are not getting anything because you have changed the text in the txt files, for example, perhaps try using other text or changing the code in the files to "fit" the constraints of the text.
+2) If you do not get any output or a land an error during the first run of the program, make sure to run it multiple times. Even with the text I provided, there are times that the words may not fulfill some existing conditions of my program or the packages that I have used for the program. Because of this, you may not get any output or land an error. If you are not getting anything because you have changed the text in the txt files, for example, perhaps try using other text or changing the code in the files to "fit" the constraints of the text.
 
 I hope you enjoy these computer poems! Cheers!
